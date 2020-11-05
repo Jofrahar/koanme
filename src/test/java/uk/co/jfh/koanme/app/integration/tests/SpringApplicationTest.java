@@ -15,6 +15,6 @@ public class SpringApplicationTest {
 
     @Test
     void checkApplicationContextLoaded() {
-	assertTrue(context != null);
+        assertTrue(context != null);
     }
 }
